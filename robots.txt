@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Sitemap: https://dr-sara-doua.webxmed.ma/sitemap.xml
